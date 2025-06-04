@@ -1,0 +1,17 @@
+blinker==1.9.0
+cffi==1.17.1
+charset-normalizer==3.4.2
+click==8.2.1
+cryptography==45.0.3
+Flask==3.1.1
+flask-cors==6.0.0
+gunicorn==23.0.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+packaging==25.0
+pdfminer.six==20250506
+pillow==11.2.1
+pycparser==2.22
+PyPDF2==3.0.1
+Werkzeug==3.1.3
